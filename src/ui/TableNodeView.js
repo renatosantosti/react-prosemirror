@@ -33,7 +33,6 @@ TableView.prototype.ignoreMutation = function ignoreMutation(record) {
 export default class TableNodeView extends TableView {
   constructor(node: Node, colMinWidth: number, view: EditorView) {
     super(node, colMinWidth, view);
-
     this._updateMargin(node);
   }
   update(node: Node): boolean {
