@@ -22,12 +22,12 @@ var babelPluginFlowReactPropTypes_proptype_MarkSpec = require('./Types').babelPl
 var FONT_TYPE_NAMES = exports.FONT_TYPE_NAMES = [
 // SERIF
 'Arial',
-//'Arial Black',
-//'Georgia',
-//'Tahoma',
-//'Times New Roman',
+'Arial Black',
+'Georgia',
+'Tahoma',
+'Times New Roman',
 'Times',
-//'Verdana',
+'Verdana',
 // MONOSPACE
 'Courier New'];
 
