@@ -1,4 +1,4 @@
-/*eslint-env node*/ 
+/*eslint-env node*/
 
 const webpack = require('webpack'),
   CleanWebpackPlugin = require('clean-webpack-plugin'),
